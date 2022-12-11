@@ -1,0 +1,15 @@
+"","Status","B14.5new.bam","B15.5new.bam","B17.5new.bam","B20new.bam","B34new.bam","C14.5new.bam","C15.5new.bam","C17.5new.bam","C20new.bam","C34new.bam"
+"1","Assigned",486228,465484,460864,479774,490983,479739,459441,490209,492434,488939
+"2","Unassigned_Unmapped",46866,70667,74929,51006,51701,49586,75912,58977,44674,43121
+"3","Unassigned_Read_Type",0,0,0,0,0,0,0,0,0,0
+"4","Unassigned_Singleton",0,0,0,0,0,0,0,0,0,0
+"5","Unassigned_MappingQuality",0,0,0,0,0,0,0,0,0,0
+"6","Unassigned_Chimera",0,0,0,0,0,0,0,0,0,0
+"7","Unassigned_FragmentLength",0,0,0,0,0,0,0,0,0,0
+"8","Unassigned_Duplicate",0,0,0,0,0,0,0,0,0,0
+"9","Unassigned_MultiMapping",0,0,0,0,0,0,0,0,0,0
+"10","Unassigned_Secondary",0,0,0,0,0,0,0,0,0,0
+"11","Unassigned_NonSplit",0,0,0,0,0,0,0,0,0,0
+"12","Unassigned_NoFeatures",65507,62099,62170,65529,52354,68840,62534,45658,59249,65248
+"13","Unassigned_Overlapping_Length",0,0,0,0,0,0,0,0,0,0
+"14","Unassigned_Ambiguity",16188,15761,15063,17428,16858,15572,16025,18869,16750,14920
